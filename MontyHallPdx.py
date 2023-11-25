@@ -1,10 +1,6 @@
 import random
 
-
-
 wins=0
-
-
 
 for i in range(10000):
     door=[1,1,1]
